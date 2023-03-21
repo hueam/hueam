@@ -1,10 +1,15 @@
 자기소개
 =============
 안녕하세요.
-현제 경기게임마이스터고를 재학중인 2학년 김민수라고 합니다.
+현재 경기게임마이스터고를 재학중인 2학년 김민수입니다.
+제 머리속에 있는 생각을 만들고 싶습니다.
 
+주로 쓰는 것
+-------------
+>![C#](https://img.shields.io/badge/sharp-99CC00.svg?&style=for-the-badge&logo=sharp&logoColor=white)
+>![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white)
 
-사용 가능한 것
+그외 쓸줄 아는 것
 -------------
 
 >![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -12,6 +17,7 @@
 >
 
 
-### 백준 티어 
-
+백준
+-------------
+간간히 문제를 풀고 있습니다.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zminsu5)](https://solved.ac/zminsu5/)
