@@ -1,5 +1,5 @@
 ###사용가능언어
-![JavaScript](https://img.shields.io/badge/JavaScript-#FCEF00.svg?&style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 ###백준 티어 👋
 
