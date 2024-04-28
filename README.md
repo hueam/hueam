@@ -1,9 +1,9 @@
-자기소개
+[자기소개
 =============
 안녕하세요.
 현재 경기게임마이스터고를 재학중인 2학년 김민수입니다.
 제 머리속에 있는 생각을 만들고 싶습니다.
-
+](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요&section=header&reversal=false&textBg=false&fontAlignY=40&desc=반갑습니다!&descSize=40)
 주로 쓰는 것
 -------------
 >![C#](https://img.shields.io/badge/sharp-99CC00.svg?&style=for-the-badge&logo=sharp&logoColor=white)
