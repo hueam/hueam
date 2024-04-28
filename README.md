@@ -6,7 +6,8 @@
 
 <div align ="center">
   <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-555555?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cpp-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zminsu5)](https://solved.ac/zminsu5/)
