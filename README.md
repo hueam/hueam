@@ -1,9 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요&section=header&reversal=false&textBg=false&fontAlignY=40&desc=반갑습니다!&descSize=40"/>
 
-주로 쓰는 것
--------------
->![C#](https://img.shields.io/badge/sharp-99CC00.svg?&style=for-the-badge&logo=sharp&logoColor=white)
->![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+<center> ㅇㄴ </center>
 
 그외 쓸줄 아는 것
 -------------
