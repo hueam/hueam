@@ -2,7 +2,7 @@
 
 <div align ="center">
   <h1>즐거움과 성장의 개발자<br>
-    김민수 입니다!</h3> 
+    김민수 입니다</h3> 
 </div>
 
 <div align ="center">
